@@ -5,7 +5,7 @@ title: 044_streams_checkpointing_at_work
 
 ### 044_streams_checkpointing_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_import_with_filter_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/045_file_source_using_spl_custom_operator_my_file_source_file_source_using_spl_custom_operator_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_import_with_filter_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/045_file_source_using_spl_custom_operator_my_file_source_file_source_using_spl_custom_operator_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -88,6 +88,6 @@ composite streams_checkpointing_at_work {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_import_with_filter_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/045_file_source_using_spl_custom_operator_my_file_source_file_source_using_spl_custom_operator_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_import_with_filter_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/045_file_source_using_spl_custom_operator_my_file_source_file_source_using_spl_custom_operator_spl/"> > </a>
 </div>
 

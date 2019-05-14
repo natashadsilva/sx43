@@ -5,7 +5,7 @@ title: 007_split_at_work
 
 ### 007_split_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/006_barrier_at_work_sample_barrier_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/008_get_submission_time_value_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/006_barrier_at_work_sample_barrier_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/008_get_submission_time_value_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -217,6 +217,6 @@ composite split_at_work {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/006_barrier_at_work_sample_barrier_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/008_get_submission_time_value_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/006_barrier_at_work_sample_barrier_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/008_get_submission_time_value_Main_spl/"> > </a>
 </div>
 

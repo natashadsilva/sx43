@@ -5,7 +5,7 @@ title: 015_join_at_work
 
 ### 015_join_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/014_sort_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/016_aggregate_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/014_sort_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/016_aggregate_at_work_my_sample_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -256,6 +256,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/014_sort_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/016_aggregate_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/014_sort_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/016_aggregate_at_work_my_sample_Main_spl/"> > </a>
 </div>
 

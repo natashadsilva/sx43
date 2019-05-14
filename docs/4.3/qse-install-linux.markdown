@@ -94,4 +94,4 @@ For details about system requirements for Streams Quick Start Edition for Linux,
 
 ## What to do next
 
-Explore Streams Quick Start Edition with [Getting started with IBM Streams v4.3](/streamsx.documentation/docs/4.3/qse-getting-started/)
+Explore Streams Quick Start Edition with [Getting started with IBM Streams v4.3](/sx43/docs/4.3/qse-getting-started/)

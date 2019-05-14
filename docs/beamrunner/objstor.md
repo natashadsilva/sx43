@@ -74,6 +74,6 @@ mvn exec:java -Ps3 \
 
      When the job completes successfully, the Streams Console shows the job as healthy (green) and the copied file is available in the Cloud Object Storage object management page.
 
-     <img src="/streamsx.documentation/images/beamrunner/objectstorageresult.jpg" alt="Result file shown in the object storage bucket" width="700" />
+     <img src="/sx43/images/beamrunner/objectstorageresult.jpg" alt="Result file shown in the object storage bucket" width="700" />
 
      **Remember**: Whether the job is successful, it continues to run on the Streaming Analytics service to allow for inspection by the Streams Console. When you are done with this tutorial, make sure to use the Streams Console to cancel any jobs that you started.

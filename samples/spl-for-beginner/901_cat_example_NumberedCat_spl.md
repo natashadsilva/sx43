@@ -5,7 +5,7 @@ title: 901_cat_example
 
 ### 901_cat_example
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/103_view_annotation_at_work_com_acme_test_ViewAnnotationAtWork_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/902_word_count_word_count_Helpers_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/103_view_annotation_at_work_com_acme_test_ViewAnnotationAtWork_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/902_word_count_word_count_Helpers_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -44,6 +44,6 @@ composite NumberedCat {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/103_view_annotation_at_work_com_acme_test_ViewAnnotationAtWork_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/902_word_count_word_count_Helpers_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/103_view_annotation_at_work_com_acme_test_ViewAnnotationAtWork_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/902_word_count_word_count_Helpers_spl/"> > </a>
 </div>
 

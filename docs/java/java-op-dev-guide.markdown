@@ -28,9 +28,9 @@ Here is a brief explanation of the required methods:
 
 * **void initialize(OperatorContext context)** - This is called once before any tuples are processed and before any of the other required methods. Here is where you should put code to establish connections to external systems and data. You will have access to parameters set in the SPL operator invocation.
 
-* **void allPortsReady()** - This is called once after the **initialize()** method has returned and all input and output ports are connected and ready to receive/submit tuples. Operators that process incoming tuples generally won't use this, since the process method is used to handle tuples. In the case of a source operator, there are no incoming tuples so this is where the tuple producing threads are started. We will cover this more in the [source operator](/streamsx.documentation/docs/4.2/java/java-op-dev-guide/#creating-a-source-operator) section.
+* **void allPortsReady()** - This is called once after the **initialize()** method has returned and all input and output ports are connected and ready to receive/submit tuples. Operators that process incoming tuples generally won't use this, since the process method is used to handle tuples. In the case of a source operator, there are no incoming tuples so this is where the tuple producing threads are started. We will cover this more in the [source operator](/sx43/docs/4.2/java/java-op-dev-guide/#creating-a-source-operator) section.
 
-* **void process(StreamingInput\<Tuple> port, Tuple tuple)** - This is where the manipulation of incoming tuples will take place, followed by submission to an output port or an external connection (in the case of a sink operator). **The performance of your operator is almost completely dependent on how efficient your process method is.** See the [Improving Performance](/streamsx.documentation/docs/4.2/java/java-op-dev-guide/#improving-performance) section for some tips.
+* **void process(StreamingInput\<Tuple> port, Tuple tuple)** - This is where the manipulation of incoming tuples will take place, followed by submission to an output port or an external connection (in the case of a sink operator). **The performance of your operator is almost completely dependent on how efficient your process method is.** See the [Improving Performance](/sx43/docs/4.2/java/java-op-dev-guide/#improving-performance) section for some tips.
 
 * **void processPunctuation(StreamingInput\<Tuple> port, Punctuation mark)** - This is where incoming punctuation markers that arrived on the specified port are processed. The two types of punctuation to be handled are window and final.
 
@@ -46,8 +46,8 @@ Here is a brief explanation of the required methods:
 
 #### Types of Operators
 * **Process Operator** - Data comes in as a tuple on an input data stream. That data is processed and the result is submitted as a tuple to an output stream. Process operators make up most of a typical Streams operator graph.
-* **[Source Operator](/streamsx.documentation/docs/4.w/java/java-op-dev-guide/#creating-a-source-operator)** - Data is read from an external system (or generated) and submitted to an output port as a tuple stream.
-* **[Sink Operator](/streamsx.documentation/docs/4.2/java/java-op-dev-guide/#creating-a-sink-operator)** - Data comes in as a tuple on an input data stream, and is then written to an external system.
+* **[Source Operator](/sx43/docs/4.w/java/java-op-dev-guide/#creating-a-source-operator)** - Data is read from an external system (or generated) and submitted to an output port as a tuple stream.
+* **[Sink Operator](/sx43/docs/4.2/java/java-op-dev-guide/#creating-a-sink-operator)** - Data comes in as a tuple on an input data stream, and is then written to an external system.
 
 In our first Java primitive operator, we will create an operator that converts incoming strings to upper case.  This example is really simple, but it demonstrates some basic concepts about Java primitive operators. This guide will build on this example to demonstrate the concepts in each section.
 
@@ -150,7 +150,7 @@ Key points to note from this example:
 	1. Write attributes to the output tuple using setter methods.
 	1. Submit output tuple.
 
-<div class="alert alert-success" role="alert"><b>Tip: </b>The performance of your Java primitive operator is highly dependent on how efficient the process method is. See the <a href="/streamsx.documentation/docs/4.2/java/java-op-dev-guide/#improving-performance" target="_blank" >Improving Performance</a> section later for details.</div>
+<div class="alert alert-success" role="alert"><b>Tip: </b>The performance of your Java primitive operator is highly dependent on how efficient the process method is. See the <a href="/sx43/docs/4.2/java/java-op-dev-guide/#improving-performance" target="_blank" >Improving Performance</a> section later for details.</div>
 
 ### Building Java Primitive Operator
 
@@ -170,7 +170,7 @@ Key points to note from this example:
 MyJavaOp/impl/java/src/stringToCaps
 MyJavaOp/impl/java/bin/
 </code></pre>
-	<li>Place your <a href="/streamsx.documentation/docs/4.2/java/java-op-dev-guide/creating-your-first-java-operator">StringToCaps.java</a> operator class in <pre>MyJavaOp/impl/java/src/stringToCaps</pre></li>
+	<li>Place your <a href="/sx43/docs/4.2/java/java-op-dev-guide/creating-your-first-java-operator">StringToCaps.java</a> operator class in <pre>MyJavaOp/impl/java/src/stringToCaps</pre></li>
 	<li>Compile the Java operator class from the SPL toolkit directory (MyJavaOp) using:</li>
 	<pre><code>javac -cp $STREAMS_INSTALL/lib/com.ibm.streams.operator.jar impl/java/src/stringToCaps/StringToCaps.java -d impl/java/bin/</code></pre>
 	<li>Index the toolkit from the SPL toolkit directory. This will generate the operator model and build the toolkit directory structure.  </li>
@@ -190,7 +190,7 @@ MyJavaOp/impl/java/bin/
 	<li>In the generated project, right-click and select New -> Java Primitive Operator</li>
 	<li>Set the namespace to stringToCaps and the Name to be StringToCaps</li>
 	<li>Click Finish</li>
-	<li>In the generated template, StringToCaps.java, modify the process operator to look like the <a href="/streamsx.documentation/docs/4.2/java/java-op-dev-guide/creating-your-first-java-operator">example above</a>.</li>
+	<li>In the generated template, StringToCaps.java, modify the process operator to look like the <a href="/sx43/docs/4.2/java/java-op-dev-guide/creating-your-first-java-operator">example above</a>.</li>
 	<li>Save your changes and Studio will automatically build your operator model and create the toolkit directory structure.</li>
 </ol>
   </div>
@@ -332,7 +332,7 @@ The resulting info.xml file should look like this:
 
 In the `TestJavaOp` toolkit, we create a test application that calls the Java primitive operator, `StringsToCap`.  A common pattern for testing a primitive operator is **Beacon -> Java Operator -> FileSink** as in the following example.
 
-<img src="/streamsx.documentation/images/JavaOperatorGuide/testApp.png" alt="Streams Studio" style="width: 60%;"/>
+<img src="/sx43/images/JavaOperatorGuide/testApp.png" alt="Streams Studio" style="width: 60%;"/>
 
 
 SPL Code for `TestJavaOp` (TestJavaOp.spl, located in <workspace>/TestJavaOp/application/):
@@ -449,7 +449,7 @@ To specify multiple locations for JARs, simply comma separate your locations:
 
 ### Added Library Example
 
-The example in the video above uses a JAR with a simple function that reverses a String [(download here)](/streamsx.documentation/images/JavaOperatorGuide/reverse.tar).
+The example in the video above uses a JAR with a simple function that reverses a String [(download here)](/sx43/images/JavaOperatorGuide/reverse.tar).
 
 <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#command-1">Build with Command-line</a></li>
@@ -695,7 +695,7 @@ Below are the basic steps for creating a source operator:
 
 ### Example Source Operator
 
-In this example, we will implement a source operator that gets data from an external server system.  This is a simulated server.  The server provides the following interface to get data from the server.  While this example is simple, and the interface does not reflect a real external system, this example demonstrates the key concepts required for implementing a source operator. You can download [Server.java](/streamsx.documentation/images/JavaOperatorGuide/Server.java) or try with your own external system.
+In this example, we will implement a source operator that gets data from an external server system.  This is a simulated server.  The server provides the following interface to get data from the server.  While this example is simple, and the interface does not reflect a real external system, this example demonstrates the key concepts required for implementing a source operator. You can download [Server.java](/sx43/images/JavaOperatorGuide/Server.java) or try with your own external system.
 
 ~~~~~~~
 
@@ -726,7 +726,7 @@ public interface Server {
 
 ~~~~~~~
 
-Below is the `ServerSource` operator that uses this interface. Place this code in its own "serverConnections" namespace directory (`<workspace>/MyJavaOp/impl/java/src/serverConnections`). Refer to the [Creating Your first Java Operator section](/streamsx.documentation/docs/4.2/java/java-op-dev-guide/#creating-your-first-java-operator) for help on how to do this.
+Below is the `ServerSource` operator that uses this interface. Place this code in its own "serverConnections" namespace directory (`<workspace>/MyJavaOp/impl/java/src/serverConnections`). Refer to the [Creating Your first Java Operator section](/sx43/docs/4.2/java/java-op-dev-guide/#creating-your-first-java-operator) for help on how to do this.
 
 <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#minimum-0">Code</a></li>
@@ -1637,7 +1637,7 @@ Below are steps to add a custom operator metric.  In this example, we will try t
     ~~~~~~
 5.	Once you save and build your toolkit and test application, submit your application. In the instance graph view in Studio, you will be able to hover over the StringToCaps operator and see a live update of numCharacters.
 
-	<img src="/streamsx.documentation/images/metrics.png" alt="Streams Studio" style="width: 60%;"/>
+	<img src="/sx43/images/metrics.png" alt="Streams Studio" style="width: 60%;"/>
 
 ## Problem Determination and Debugging
 Debugging your Java operator is similar to debugging normal Java.

@@ -18,7 +18,7 @@ Follow this guide if you want to learn about Streams and SPL without downloading
 installing the Streams platform.
 
 To get started with Streams using a local installation, see the [Getting
-Started with the Streams Quick Start Edition](/streamsx.documentation/docs/latest/qse-intro) page.
+Started with the Streams Quick Start Edition](/sx43/docs/latest/qse-intro) page.
 
 Prerequisites
 -------------
@@ -32,7 +32,7 @@ If you are completely new to Streams, read the [Basic Building Blocks](https://d
 -   Create your own applications from scratch
 
 **Note**: This guide will only cover creating Streams applications using
-SPL. To learn about development in Python or Java, see the [Python development guide](/streamsx.documentation/docs/python/python-appapi-devguide/) or the [Java development guide](/streamsx.documentation/docs/java/java-appapi-devguide/).
+SPL. To learn about development in Python or Java, see the [Python development guide](/sx43/docs/python/python-appapi-devguide/) or the [Java development guide](/sx43/docs/java/java-appapi-devguide/).
 
 
 
@@ -40,16 +40,16 @@ What's covered in this guide
 -----------------
 
 
--   [Configure Atom](/streamsx.documentation/docs/spl/atom/atom-guide-1a-configure)
+-   [Configure Atom](/sx43/docs/spl/atom/atom-guide-1a-configure)
 
--   [Import your code into Atom](/streamsx.documentation/docs/spl/atom/atom-guide-2-import-code)
+-   [Import your code into Atom](/sx43/docs/spl/atom/atom-guide-2-import-code)
 
--   [Reviewing code in Atom](/streamsx.documentation/docs/spl/atom/atom-guide-3-editor)
+-   [Reviewing code in Atom](/sx43/docs/spl/atom/atom-guide-3-editor)
 
--  [Creating a Streams application](/streamsx.documentation/docs/spl/atom/atom-guide-4-create)
+-  [Creating a Streams application](/sx43/docs/spl/atom/atom-guide-4-create)
 
--   [Running an application](/streamsx.documentation/docs/spl/atom/atom-guide-5-build)
+-   [Running an application](/sx43/docs/spl/atom/atom-guide-5-build)
 
--   [Adding a toolkit](/streamsx.documentation/docs/spl/atom/atom-guide-6-toolkits)
+-   [Adding a toolkit](/sx43/docs/spl/atom/atom-guide-6-toolkits)
 
--  [Troubleshooting](/streamsx.documentation/docs/spl/atom/atom-guide-7-problems)
+-  [Troubleshooting](/sx43/docs/spl/atom/atom-guide-7-problems)

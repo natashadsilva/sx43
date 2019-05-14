@@ -5,7 +5,7 @@ title: 045_file_source_using_spl_custom_operator
 
 ### 045_file_source_using_spl_custom_operator
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/044_streams_checkpointing_at_work_checkpointing_example_streams_checkpointing_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/046_launching_external_apps_in_spl_launch_external_apps_launching_external_apps_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/044_streams_checkpointing_at_work_checkpointing_example_streams_checkpointing_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/046_launching_external_apps_in_spl_launch_external_apps_launching_external_apps_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -117,6 +117,6 @@ composite file_source_using_spl_custom_operator {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/044_streams_checkpointing_at_work_checkpointing_example_streams_checkpointing_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/046_launching_external_apps_in_spl_launch_external_apps_launching_external_apps_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/044_streams_checkpointing_at_work_checkpointing_example_streams_checkpointing_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/046_launching_external_apps_in_spl_launch_external_apps_launching_external_apps_spl/"> > </a>
 </div>
 

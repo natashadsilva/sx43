@@ -12,11 +12,11 @@ The goal of the project is to provide easy-to-follow documentation and developme
 ## Getting started with IBM Streams
 
 {: .simple}
-* **Option 1:** (No Download Required) [Try IBM Streams v4.3 with Atom](/streamsx.documentation/docs/spl/atom/atom-apps)
-* **Option 2:** [Try IBM Streams v4.3 with Quick Start Edition](/streamsx.documentation/docs/4.3/qse-intro)
-    * [Installing Streams Quick Start Edition with Docker](/streamsx.documentation/docs/4.3/qse-install-docker)
-    * [Installing Streams Quick Start Edition for Linux](/streamsx.documentation/docs/4.3/qse-install-linux)
-    * [Getting started with Streams using the Quick Start Edition](/streamsx.documentation/docs/4.3/qse-getting-started)
+* **Option 1:** (No Download Required) [Try IBM Streams v4.3 with Atom](/sx43/docs/spl/atom/atom-apps)
+* **Option 2:** [Try IBM Streams v4.3 with Quick Start Edition](/sx43/docs/4.3/qse-intro)
+    * [Installing Streams Quick Start Edition with Docker](/sx43/docs/4.3/qse-install-docker)
+    * [Installing Streams Quick Start Edition for Linux](/sx43/docs/4.3/qse-install-linux)
+    * [Getting started with Streams using the Quick Start Edition](/sx43/docs/4.3/qse-getting-started)
 
 
 ## Developing Streams applications
@@ -29,9 +29,9 @@ The following are resources to help you get started developing applications usin
 
 {: .simple}
 * Start with the [Streams Quick Start Guide](https://developer.ibm.com/streamsdev/?p=5686)
-* [SPL Development Guide](/streamsx.documentation/docs/spl/)
+* [SPL Development Guide](/sx43/docs/spl/)
 * [Streams Hands-on Lab](https://developer.ibm.com/streamsdev/docs/streams-lab-introduction/)
-* [SPL Examples for Beginners](/streamsx.documentation/samples/)
+* [SPL Examples for Beginners](/sx43/samples/)
 * [Search our samples catalog](https://ibmstreams.github.io/samples/)
 
 ### Developing Streams applications with Java
@@ -41,7 +41,7 @@ The following are resources to help you get started developing applications usin
 ### Developing Streams applications with Python
 
 {: .simple}
-* [Developing applications (v1.6+)](/streamsx.documentation/docs/python/1.6/python-appapi-devguide/) &nbsp; [(v1.4)](/streamsx.documentation/docs/python/1.4/python-appapi-devguide/)
+* [Developing applications (v1.6+)](/sx43/docs/python/1.6/python-appapi-devguide/) &nbsp; [(v1.4)](/sx43/docs/python/1.4/python-appapi-devguide/)
 * [API reference (latest)](http://ibmstreams.github.io/streamsx.topology/doc/pythondoc/index.html)
 * [Older releases](https://github.com/IBMStreams/streamsx.topology/releases)
 
@@ -50,7 +50,7 @@ The following are resources to help you get started developing applications usin
 
 {: .simple}
 
-* [Create applications using the Streams runner for Apache Beam](/streamsx.documentation/docs/beamrunner/)
+* [Create applications using the Streams runner for Apache Beam](/sx43/docs/beamrunner/)
 
 ### Developing Streams applications with Scala
 
@@ -71,9 +71,9 @@ Links to the documentation for more common toolkits
 
 {: .simple}
 
-* [Get started with the Messaging toolkit](/streamsx.documentation/docs/4.2/messaging/)
-* [Cybersecurity toolkit documentation](/streamsx.documentation/docs/4.2/cybersecurity)
-* [Monitor access to your data with IBM Information Governance catalog](/streamsx.documentation/docs/4.2/governance/)
+* [Get started with the Messaging toolkit](/sx43/docs/4.2/messaging/)
+* [Cybersecurity toolkit documentation](/sx43/docs/4.2/cybersecurity)
+* [Monitor access to your data with IBM Information Governance catalog](/sx43/docs/4.2/governance/)
 
 ## Additional resources
 
@@ -83,7 +83,7 @@ View tutorials and guides for older versions of IBM Streams.
 
 {: .simple}
 
-* [Tutorials and guides for older versions of IBM Streams](/streamsx.documentation/docs/previous/).
+* [Tutorials and guides for older versions of IBM Streams](/sx43/docs/previous/).
 
 ### Streams product documentation
 
@@ -124,7 +124,7 @@ To provide feedback on the documentation:
 
 To request new documentation, open an issue by clicking **New documentation**:
 
-   <form action="https://github.com/IBMStreams/streamsx.documentation/issues/new" target="_blank">
+   <form action="https://github.com/IBMStreams/sx43/issues/new" target="_blank">
       <input type="submit" value="New documentation">
    </form>
 <br>

@@ -5,7 +5,7 @@ title: 068_tuple_introspection_inside_java_operator
 
 ### 068_tuple_introspection_inside_java_operator
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/067_simple_java_source_operator_com_acme_test_Temp1_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/069_changing_map_value_during_iteration_com_acme_test_ChangeCollectionValue_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/067_simple_java_source_operator_com_acme_test_Temp1_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/069_changing_map_value_during_iteration_com_acme_test_ChangeCollectionValue_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -48,6 +48,6 @@ composite Temp2 {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/067_simple_java_source_operator_com_acme_test_Temp1_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/069_changing_map_value_during_iteration_com_acme_test_ChangeCollectionValue_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/067_simple_java_source_operator_com_acme_test_Temp1_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/069_changing_map_value_during_iteration_com_acme_test_ChangeCollectionValue_spl/"> > </a>
 </div>
 

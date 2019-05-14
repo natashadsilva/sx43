@@ -5,7 +5,7 @@ title: 090_consistent_region_spl_01
 
 ### 090_consistent_region_spl_01
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/089_integrating_streams_apps_with_web_apps_com_acme_test_WebCalculator_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/091_consistent_region_spl_02_com_acme_test_ConsistentRegion2_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/089_integrating_streams_apps_with_web_apps_com_acme_test_WebCalculator_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/091_consistent_region_spl_02_com_acme_test_ConsistentRegion2_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -206,6 +206,6 @@ composite CrashAtTuple(output O; input I) {
 }
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/089_integrating_streams_apps_with_web_apps_com_acme_test_WebCalculator_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/091_consistent_region_spl_02_com_acme_test_ConsistentRegion2_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/089_integrating_streams_apps_with_web_apps_com_acme_test_WebCalculator_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/091_consistent_region_spl_02_com_acme_test_ConsistentRegion2_spl/"> > </a>
 </div>
 

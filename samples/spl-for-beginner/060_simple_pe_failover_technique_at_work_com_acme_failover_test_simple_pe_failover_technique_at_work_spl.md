@@ -5,7 +5,7 @@ title: 060_simple_pe_failover_technique_at_work
 
 ### 060_simple_pe_failover_technique_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_test_DynamicScaleOut_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/061_data_sharing_between_non_fused_spl_custom_operators_and_a_native_function_com_acme_test_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_test_DynamicScaleOut_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/061_data_sharing_between_non_fused_spl_custom_operators_and_a_native_function_com_acme_test_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -632,6 +632,6 @@ composite simple_pe_failover_technique_at_work {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_test_DynamicScaleOut_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/061_data_sharing_between_non_fused_spl_custom_operators_and_a_native_function_com_acme_test_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_test_DynamicScaleOut_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/061_data_sharing_between_non_fused_spl_custom_operators_and_a_native_function_com_acme_test_Main_spl/"> > </a>
 </div>
 

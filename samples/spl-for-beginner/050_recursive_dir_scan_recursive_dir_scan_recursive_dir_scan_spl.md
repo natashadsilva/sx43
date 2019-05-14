@@ -5,7 +5,7 @@ title: 050_recursive_dir_scan
 
 ### 050_recursive_dir_scan
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/049_json_to_tuple_to_json_using_java_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/051_native_functions_with_collection_types_com_ibm_nf_test_native_functions_with_collection_types_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/049_json_to_tuple_to_json_using_java_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/051_native_functions_with_collection_types_com_ibm_nf_test_native_functions_with_collection_types_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -120,6 +120,6 @@ composite recursive_dir_scan {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/049_json_to_tuple_to_json_using_java_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/051_native_functions_with_collection_types_com_ibm_nf_test_native_functions_with_collection_types_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/049_json_to_tuple_to_json_using_java_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/051_native_functions_with_collection_types_com_ibm_nf_test_native_functions_with_collection_types_spl/"> > </a>
 </div>
 

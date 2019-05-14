@@ -5,7 +5,7 @@ title: 046_launching_external_apps_in_spl
 
 ### 046_launching_external_apps_in_spl
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/045_file_source_using_spl_custom_operator_my_file_source_file_source_using_spl_custom_operator_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/047_streams_host_tags_at_work_host_tags_streams_host_tags_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/045_file_source_using_spl_custom_operator_my_file_source_file_source_using_spl_custom_operator_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/047_streams_host_tags_at_work_host_tags_streams_host_tags_at_work_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -55,6 +55,6 @@ composite launching_external_apps {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/045_file_source_using_spl_custom_operator_my_file_source_file_source_using_spl_custom_operator_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/047_streams_host_tags_at_work_host_tags_streams_host_tags_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/045_file_source_using_spl_custom_operator_my_file_source_file_source_using_spl_custom_operator_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/047_streams_host_tags_at_work_host_tags_streams_host_tags_at_work_spl/"> > </a>
 </div>
 

@@ -5,7 +5,7 @@ title: 051_native_functions_with_collection_types
 
 ### 051_native_functions_with_collection_types
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/050_recursive_dir_scan_recursive_dir_scan_recursive_dir_scan_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/052_streams_to_python_python_wrapper_example_streams_to_python_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/050_recursive_dir_scan_recursive_dir_scan_recursive_dir_scan_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/052_streams_to_python_python_wrapper_example_streams_to_python_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -112,6 +112,6 @@ composite native_functions_with_collection_types {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/050_recursive_dir_scan_recursive_dir_scan_recursive_dir_scan_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/052_streams_to_python_python_wrapper_example_streams_to_python_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/050_recursive_dir_scan_recursive_dir_scan_recursive_dir_scan_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/052_streams_to_python_python_wrapper_example_streams_to_python_spl/"> > </a>
 </div>
 

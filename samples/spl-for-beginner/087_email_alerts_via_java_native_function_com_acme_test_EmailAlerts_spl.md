@@ -5,7 +5,7 @@ title: 087_email_alerts_via_java_native_function
 
 ### 087_email_alerts_via_java_native_function
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/086_jms_source_sink_using_activemq_com_acme_test_JMSSourceSink_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/088_java_operator_params_and_multiple_input_output_ports_com_acme_test_JavaOperatorParams_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/086_jms_source_sink_using_activemq_com_acme_test_JMSSourceSink_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/088_java_operator_params_and_multiple_input_output_ports_com_acme_test_JavaOperatorParams_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -59,6 +59,6 @@ composite EmailAlerts {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/086_jms_source_sink_using_activemq_com_acme_test_JMSSourceSink_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/088_java_operator_params_and_multiple_input_output_ports_com_acme_test_JavaOperatorParams_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/086_jms_source_sink_using_activemq_com_acme_test_JMSSourceSink_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/088_java_operator_params_and_multiple_input_output_ports_com_acme_test_JavaOperatorParams_spl/"> > </a>
 </div>
 

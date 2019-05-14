@@ -5,7 +5,7 @@ title: 040_ingest_data_generation_in_spl
 
 ### 040_ingest_data_generation_in_spl
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/038_spl_built_in_functions_at_work_test_scratch_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/041_real_time_streams_merger_real_time_merger_real_time_streams_merger_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/038_spl_built_in_functions_at_work_test_scratch_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/041_real_time_streams_merger_real_time_merger_real_time_streams_merger_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -242,6 +242,6 @@ composite Main {
 } // End of composite Main
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/038_spl_built_in_functions_at_work_test_scratch_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/041_real_time_streams_merger_real_time_merger_real_time_streams_merger_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/038_spl_built_in_functions_at_work_test_scratch_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/041_real_time_streams_merger_real_time_merger_real_time_streams_merger_spl/"> > </a>
 </div>
 

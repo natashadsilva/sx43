@@ -5,7 +5,7 @@ title: 905_gate_load_balancer
 
 ### 905_gate_load_balancer
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/904_primitive_round_robin_split_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/com_ibm_streamsx_dps_samples_dps_test_1_DpsTest1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/904_primitive_round_robin_split_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/com_ibm_streamsx_dps_samples_dps_test_1_DpsTest1_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -115,6 +115,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/904_primitive_round_robin_split_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/com_ibm_streamsx_dps_samples_dps_test_1_DpsTest1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/904_primitive_round_robin_split_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/com_ibm_streamsx_dps_samples_dps_test_1_DpsTest1_spl/"> > </a>
 </div>
 

@@ -5,7 +5,7 @@ title: 074_user_defined_parallelism_01
 
 ### 074_user_defined_parallelism_01
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/073_java_operator_fusion_com_acme_test_JavaFusion_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/075_user_defined_parallelism_02_com_acme_test_UDP2_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/073_java_operator_fusion_com_acme_test_JavaFusion_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/075_user_defined_parallelism_02_com_acme_test_UDP2_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -65,6 +65,6 @@ composite UDP1 {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/073_java_operator_fusion_com_acme_test_JavaFusion_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/075_user_defined_parallelism_02_com_acme_test_UDP2_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/073_java_operator_fusion_com_acme_test_JavaFusion_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/075_user_defined_parallelism_02_com_acme_test_UDP2_spl/"> > </a>
 </div>
 

@@ -14,15 +14,15 @@ To preview the changes you've made, you can clone the repository and run Jekyll 
     ```
   This should produce some output:
   ```
-    Configuration file: /Users/n.../streamsx.documentation/_config.yml
+    Configuration file: /Users/n.../sx43/_config.yml
               Source: /Users/n.../streamsx.documentation
-         Destination: /Users/.../streamsx.documentation/_site
+         Destination: /Users/.../sx43/_site
    Incremental build: disabled. Enable with --incremental
         Generating...
                       done in 9.221 seconds.
           MORE INFO: https://github.com/guard/listen/wiki/Duplicate-directory-errors
    Auto-regeneration: enabled /Users/..../streamsx.documentation43
-      Server address: http://127.0.0.1:4000/streamsx.documentation/
+      Server address: http://127.0.0.1:4000/sx43/
     Server running... press ctrl-c to stop.
   ```
-Go to `127.0.0.1:4000/streamsx.documentation/` to preview your changes.
+Go to `127.0.0.1:4000/sx43/` to preview your changes.

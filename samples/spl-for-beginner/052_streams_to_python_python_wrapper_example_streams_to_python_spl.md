@@ -5,7 +5,7 @@ title: 052_streams_to_python
 
 ### 052_streams_to_python
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/051_native_functions_with_collection_types_com_ibm_nf_test_native_functions_with_collection_types_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/053_java_primitive_operator_with_complex_output_tuple_types_com_acme_test_java_primitive_operator_with_complex_output_tuple_types_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/051_native_functions_with_collection_types_com_ibm_nf_test_native_functions_with_collection_types_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/053_java_primitive_operator_with_complex_output_tuple_types_com_acme_test_java_primitive_operator_with_complex_output_tuple_types_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -74,6 +74,6 @@ composite streams_to_python {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/051_native_functions_with_collection_types_com_ibm_nf_test_native_functions_with_collection_types_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/053_java_primitive_operator_with_complex_output_tuple_types_com_acme_test_java_primitive_operator_with_complex_output_tuple_types_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/051_native_functions_with_collection_types_com_ibm_nf_test_native_functions_with_collection_types_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/053_java_primitive_operator_with_complex_output_tuple_types_com_acme_test_java_primitive_operator_with_complex_output_tuple_types_spl/"> > </a>
 </div>
 

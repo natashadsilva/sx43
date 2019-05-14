@@ -5,7 +5,7 @@ title: 902_word_count
 
 ### 902_word_count
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/902_word_count_word_count_Helpers_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/903_unique_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/902_word_count_word_count_Helpers_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/903_unique_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -45,6 +45,6 @@ composite WordCount {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/902_word_count_word_count_Helpers_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/903_unique_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/902_word_count_word_count_Helpers_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/903_unique_Main_spl/"> > </a>
 </div>
 

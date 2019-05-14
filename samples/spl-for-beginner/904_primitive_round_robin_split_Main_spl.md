@@ -5,7 +5,7 @@ title: 904_primitive_round_robin_split
 
 ### 904_primitive_round_robin_split
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/903_unique_my_util_Uniq_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/905_gate_load_balancer_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/903_unique_my_util_Uniq_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/905_gate_load_balancer_my_sample_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -54,6 +54,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/903_unique_my_util_Uniq_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/905_gate_load_balancer_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/903_unique_my_util_Uniq_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/905_gate_load_balancer_my_sample_Main_spl/"> > </a>
 </div>
 

@@ -5,7 +5,7 @@ title: 064_using_spl_composite_params
 
 ### 064_using_spl_composite_params
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/063_on_the_fly_tuple_creation_and_encoding_decoding_in_java_primitive_operators_application_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/065_using_multiple_threads_in_java_operator_com_acme_test_JavaOpSubmitFromMultipleThreads_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/063_on_the_fly_tuple_creation_and_encoding_decoding_in_java_primitive_operators_application_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/065_using_multiple_threads_in_java_operator_com_acme_test_JavaOpSubmitFromMultipleThreads_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -178,6 +178,6 @@ composite TypeParamMode(input In0; output Out0) {
 }
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/063_on_the_fly_tuple_creation_and_encoding_decoding_in_java_primitive_operators_application_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/065_using_multiple_threads_in_java_operator_com_acme_test_JavaOpSubmitFromMultipleThreads_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/063_on_the_fly_tuple_creation_and_encoding_decoding_in_java_primitive_operators_application_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/065_using_multiple_threads_in_java_operator_com_acme_test_JavaOpSubmitFromMultipleThreads_spl/"> > </a>
 </div>
 

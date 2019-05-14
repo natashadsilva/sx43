@@ -5,7 +5,7 @@ title: 063_on_the_fly_tuple_creation_and_encoding_decoding_in_java_primitive_ope
 
 ### 063_on_the_fly_tuple_creation_and_encoding_decoding_in_java_primitive_operators
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/062_data_sharing_between_non_fused_spl_custom_and_java_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/064_using_spl_composite_params_com_acme_test_CompositeParams_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/062_data_sharing_between_non_fused_spl_custom_and_java_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/064_using_spl_composite_params_com_acme_test_CompositeParams_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -39,6 +39,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/062_data_sharing_between_non_fused_spl_custom_and_java_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/064_using_spl_composite_params_com_acme_test_CompositeParams_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/062_data_sharing_between_non_fused_spl_custom_and_java_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/064_using_spl_composite_params_com_acme_test_CompositeParams_spl/"> > </a>
 </div>
 

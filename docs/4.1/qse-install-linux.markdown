@@ -107,4 +107,4 @@ For details on system requirements for Streams QSE for Linux, refer to the [Know
 
 ## What to do next
 
-Explore the Streams QSE following the [Quick Start Edition VM Getting Started Guide](/streamsx.documentation/docs/4.1/qse-getting-started/)
+Explore the Streams QSE following the [Quick Start Edition VM Getting Started Guide](/sx43/docs/4.1/qse-getting-started/)

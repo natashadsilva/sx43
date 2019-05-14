@@ -5,7 +5,7 @@ title: 030_spl_config_at_work
 
 ### 030_spl_config_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/031_spl_mixed_mode_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/031_spl_mixed_mode_at_work_my_sample_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -221,6 +221,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/031_spl_mixed_mode_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/031_spl_mixed_mode_at_work_my_sample_Main_spl/"> > </a>
 </div>
 

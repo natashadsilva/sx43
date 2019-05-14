@@ -5,7 +5,7 @@ title: 034_odbc_adapters_for_db2_at_work
 
 ### 034_odbc_adapters_for_db2_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/033_java_primitive_operator_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/035_c++_primitive_operator_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/033_java_primitive_operator_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/035_c++_primitive_operator_at_work_my_sample_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -174,6 +174,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/033_java_primitive_operator_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/035_c++_primitive_operator_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/033_java_primitive_operator_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/035_c++_primitive_operator_at_work_my_sample_Main_spl/"> > </a>
 </div>
 

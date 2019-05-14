@@ -5,7 +5,7 @@ title: 018_directory_scan_at_work
 
 ### 018_directory_scan_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/017_filesource_filesink_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/019_import_export_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/017_filesource_filesink_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/019_import_export_at_work_my_sample_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -107,6 +107,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/017_filesource_filesink_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/019_import_export_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/017_filesource_filesink_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/019_import_export_at_work_my_sample_Main_spl/"> > </a>
 </div>
 

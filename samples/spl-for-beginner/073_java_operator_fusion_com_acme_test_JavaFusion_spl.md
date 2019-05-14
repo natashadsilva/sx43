@@ -5,7 +5,7 @@ title: 073_java_operator_fusion
 
 ### 073_java_operator_fusion
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/072_using_streams_rest_apis_com_acme_test_UsingStreamsRestApis_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/074_user_defined_parallelism_01_com_acme_test_UDP1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/072_using_streams_rest_apis_com_acme_test_UsingStreamsRestApis_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/074_user_defined_parallelism_01_com_acme_test_UDP1_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -57,6 +57,6 @@ composite JavaFusion {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/072_using_streams_rest_apis_com_acme_test_UsingStreamsRestApis_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/074_user_defined_parallelism_01_com_acme_test_UDP1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/072_using_streams_rest_apis_com_acme_test_UsingStreamsRestApis_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/074_user_defined_parallelism_01_com_acme_test_UDP1_spl/"> > </a>
 </div>
 

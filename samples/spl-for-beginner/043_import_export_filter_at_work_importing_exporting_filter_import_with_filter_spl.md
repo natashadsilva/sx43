@@ -5,7 +5,7 @@ title: 043_import_export_filter_at_work
 
 ### 043_import_export_filter_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_export_with_filter_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/044_streams_checkpointing_at_work_checkpointing_example_streams_checkpointing_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_export_with_filter_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/044_streams_checkpointing_at_work_checkpointing_example_streams_checkpointing_at_work_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -119,6 +119,6 @@ composite import_with_filter {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_export_with_filter_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/044_streams_checkpointing_at_work_checkpointing_example_streams_checkpointing_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_export_with_filter_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/044_streams_checkpointing_at_work_checkpointing_example_streams_checkpointing_at_work_spl/"> > </a>
 </div>
 

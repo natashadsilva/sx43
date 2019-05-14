@@ -5,7 +5,7 @@ title: 058_data_sharing_between_non_fused_spl_custom_and_cpp_primitive_operators
 
 ### 058_data_sharing_between_non_fused_spl_custom_and_cpp_primitive_operators
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/057_reading_nested_tuple_data_via_file_source_com_acme_test_Test1_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_Pricer_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/057_reading_nested_tuple_data_via_file_source_com_acme_test_Test1_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_Pricer_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -228,6 +228,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/057_reading_nested_tuple_data_via_file_source_com_acme_test_Test1_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_Pricer_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/057_reading_nested_tuple_data_via_file_source_com_acme_test_Test1_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_Pricer_spl/"> > </a>
 </div>
 

@@ -38,12 +38,12 @@ SPL projects are also called toolkits. Each toolkit folder must include a file c
 Create a file within the folder called `info.xml`.
     - Right-click the `MyStreamsProject` folder, select **New File**, and enter `info.xml` as the file name:
 
-![new tk info file](/streamsx.documentation/images/atom/jpg/info1.jpeg)
+![new tk info file](/sx43/images/atom/jpg/info1.jpeg)
 
 You can copy the contents of sampleinfo.xml \[LINK\] to get you started.
 
 For your reference, below is an overview of the contents of what needs to be present in the file.
-    ![sample info]((/streamsx.documentation/images/atom/jpg/sample-info.jpeg)
+    ![sample info]((/sx43/images/atom/jpg/sample-info.jpeg)
 ```
 <toolkitInfoModel
           xmlns="http://www.ibm.com/xmlns/prod/streams/spl/toolkitInfo"
@@ -76,16 +76,16 @@ Create a folder within your project with the target namespace:
 -   Select the project, right click, and click **New Folder**.
 
 -   Enter a name for the namespace, e.g. `my.name.space`:
-    ![sample info](/streamsx.documentation/images/atom/jpg/namespace1.jpeg)
+    ![sample info](/sx43/images/atom/jpg/namespace1.jpeg)
 
 -   Create a new file within the my.name.space folder, call it
     `.namespace`
 
-    ![new namespace](/streamsx.documentation/images/atom/jpg/namespace2.jpeg)
+    ![new namespace](/sx43/images/atom/jpg/namespace2.jpeg)
 
 -   The final folder structure should look like this:
 
-    ![folder structure](/streamsx.documentation/images/atom/jpg/namespace3.jpeg)
+    ![folder structure](/sx43/images/atom/jpg/namespace3.jpeg)
 
 Now that your namespace is created, you can create your first SPL source
 file.
@@ -117,7 +117,7 @@ composite BusAlerts {
 
 The final code should appear like this:
 
-![stub app](/streamsx.documentation/images/atom/jpg/blank-app.jpeg)
+![stub app](/sx43/images/atom/jpg/blank-app.jpeg)
 
 Develop a simple application
 ---------------------------
@@ -138,7 +138,7 @@ Recall that this application will display alerts and advertisements within the c
 For example, if a bus comes within 1km of the Golden Gate Bridge in San Fransisco, we want to display this message inside the bus: "Approaching Golden Gate Bridge, pedestrian bridge is closed."
 
 We're going to develop the application in 3 steps:
-![application phases](/streamsx.documentation/images/atom/jpg/phases2.jpg)
+![application phases](/sx43/images/atom/jpg/phases2.jpg)
 
 When developing Streams applications, first **break down the application into individual tasks, and then find one or more operators to perform each task.**
 
@@ -254,7 +254,7 @@ Now we have 2 streams of data, `POI_FromFile` and `NextBusData_FromFile` that we
 
 So far, our application graph looks like this:
 
-![step-1-graph](/streamsx.documentation/images/atom/jpg/step1-graph.png)
+![step-1-graph](/sx43/images/atom/jpg/step1-graph.png)
 
 Step 2: Detect when a bus is near a POI
 -----------------------------------
@@ -363,7 +363,7 @@ I have marked the code with lines of interest:
 
 We have now completed step 2 of our application
 
-![step-2-graph](/streamsx.documentation/images/atom/jpg/step2-graph.png)
+![step-2-graph](/sx43/images/atom/jpg/step2-graph.png)
 
 
 Step 3: Send the alert
@@ -386,7 +386,7 @@ Last step is to send the alert. We will use  the `printStringLn` function in ano
 
 So now our application is complete:
 
-![step-3-graph](/streamsx.documentation/images/atom/jpg/step3-graph.jpg)
+![step-3-graph](/sx43/images/atom/jpg/step3-graph.jpg)
 
 View the complete source in my.name.space/BusAlerts_Main.spl
 

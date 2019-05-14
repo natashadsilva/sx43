@@ -5,7 +5,7 @@ title: 059_dynamic_scaleout_of_streams_application
 
 ### 059_dynamic_scaleout_of_streams_application
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/058_data_sharing_between_non_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_test_DynamicScaleOut_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/058_data_sharing_between_non_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_test_DynamicScaleOut_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -151,6 +151,6 @@ composite Pricer {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/058_data_sharing_between_non_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_test_DynamicScaleOut_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/058_data_sharing_between_non_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_test_DynamicScaleOut_spl/"> > </a>
 </div>
 

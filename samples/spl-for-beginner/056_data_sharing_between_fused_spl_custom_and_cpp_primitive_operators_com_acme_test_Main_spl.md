@@ -5,7 +5,7 @@ title: 056_data_sharing_between_fused_spl_custom_and_cpp_primitive_operators
 
 ### 056_data_sharing_between_fused_spl_custom_and_cpp_primitive_operators
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/055_json_to_tuple_to_json_using_c++_com_acme_test_json_to_tuple_to_json_using_cpp_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/057_reading_nested_tuple_data_via_file_source_com_acme_test_Test1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/055_json_to_tuple_to_json_using_c++_com_acme_test_json_to_tuple_to_json_using_cpp_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/057_reading_nested_tuple_data_via_file_source_com_acme_test_Test1_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -192,6 +192,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/055_json_to_tuple_to_json_using_c++_com_acme_test_json_to_tuple_to_json_using_cpp_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/057_reading_nested_tuple_data_via_file_source_com_acme_test_Test1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/055_json_to_tuple_to_json_using_c++_com_acme_test_json_to_tuple_to_json_using_cpp_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/057_reading_nested_tuple_data_via_file_source_com_acme_test_Test1_spl/"> > </a>
 </div>
 

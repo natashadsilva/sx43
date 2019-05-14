@@ -20,11 +20,11 @@ sample application.
 You can also go to the section that best
 describes your use case:
 
--   [Import an existing project](/streamsx.documentation/docs/spl/atom/atom-guide-2-import-code/#import-an-existing-project) (including Streams Studio projects)
+-   [Import an existing project](/sx43/docs/spl/atom/atom-guide-2-import-code/#import-an-existing-project) (including Streams Studio projects)
 
--   [Import a project from GitHub](/streamsx.documentation/docs/spl/atom/atom-guide-2-import-code/#import-a-project-from-github)
+-   [Import a project from GitHub](/sx43/docs/spl/atom/atom-guide-2-import-code/#import-a-project-from-github)
 
--   [Creating a new project in Atom](/streamsx.documentation/docs/spl/atom/atom-guide-2-import-code/#creating-a-new-project)
+-   [Creating a new project in Atom](/sx43/docs/spl/atom/atom-guide-2-import-code/#creating-a-new-project)
 
 
 Import the sample project for this guide
@@ -57,11 +57,11 @@ If you have existing SPL code on Github**,** you can clone the
 repository from within Atom:
 From the Command Palette (_CMD + Shift + P_ on Mac), type **Github Clone**:
 
- ![git clone](/streamsx.documentation/images/atom/jpg/githubclone.jpeg)
+ ![git clone](/sx43/images/atom/jpg/githubclone.jpeg)
 
 Then paste the repository URL and click **Clone**.
 
- ![git clone uri](/streamsx.documentation/images/atom/jpg/github-clone-uri.jpeg)
+ ![git clone uri](/sx43/images/atom/jpg/github-clone-uri.jpeg)
 
 The project should be added to the project pane.
 

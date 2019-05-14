@@ -5,7 +5,7 @@ title: 003_sink_at_work
 
 ### 003_sink_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/002_source_sink_at_work_sample_source_sink_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/004_delay_at_work_sample_delay_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/002_source_sink_at_work_sample_source_sink_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/004_delay_at_work_sample_delay_at_work_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -63,6 +63,6 @@ composite sink_at_work {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/002_source_sink_at_work_sample_source_sink_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/004_delay_at_work_sample_delay_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/002_source_sink_at_work_sample_source_sink_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/004_delay_at_work_sample_delay_at_work_spl/"> > </a>
 </div>
 

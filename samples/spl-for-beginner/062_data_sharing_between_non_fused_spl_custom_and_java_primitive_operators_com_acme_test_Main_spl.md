@@ -5,7 +5,7 @@ title: 062_data_sharing_between_non_fused_spl_custom_and_java_primitive_operator
 
 ### 062_data_sharing_between_non_fused_spl_custom_and_java_primitive_operators
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/061_data_sharing_between_non_fused_spl_custom_operators_and_a_native_function_com_acme_test_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/063_on_the_fly_tuple_creation_and_encoding_decoding_in_java_primitive_operators_application_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/061_data_sharing_between_non_fused_spl_custom_operators_and_a_native_function_com_acme_test_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/063_on_the_fly_tuple_creation_and_encoding_decoding_in_java_primitive_operators_application_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -349,6 +349,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/061_data_sharing_between_non_fused_spl_custom_operators_and_a_native_function_com_acme_test_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/063_on_the_fly_tuple_creation_and_encoding_decoding_in_java_primitive_operators_application_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/061_data_sharing_between_non_fused_spl_custom_operators_and_a_native_function_com_acme_test_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/063_on_the_fly_tuple_creation_and_encoding_decoding_in_java_primitive_operators_application_Main_spl/"> > </a>
 </div>
 

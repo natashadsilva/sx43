@@ -5,7 +5,7 @@ title: 066_load_balancing_using_gate
 
 ### 066_load_balancing_using_gate
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/065_using_multiple_threads_in_java_operator_com_acme_test_JavaOpSubmitFromMultipleThreads_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/067_simple_java_source_operator_com_acme_test_Temp1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/065_using_multiple_threads_in_java_operator_com_acme_test_JavaOpSubmitFromMultipleThreads_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/067_simple_java_source_operator_com_acme_test_Temp1_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -110,6 +110,6 @@ composite LoadBalancingUsingGate {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/065_using_multiple_threads_in_java_operator_com_acme_test_JavaOpSubmitFromMultipleThreads_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/067_simple_java_source_operator_com_acme_test_Temp1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/065_using_multiple_threads_in_java_operator_com_acme_test_JavaOpSubmitFromMultipleThreads_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/067_simple_java_source_operator_com_acme_test_Temp1_spl/"> > </a>
 </div>
 

@@ -5,7 +5,7 @@ title: com.ibm.streamsx.dps
 
 ### com.ibm.streamsx.dps
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/905_gate_load_balancer_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/com_ibm_streamsx_ps_samples_ps_test_1_PsTest1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/905_gate_load_balancer_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/com_ibm_streamsx_ps_samples_ps_test_1_PsTest1_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -3964,6 +3964,6 @@ stateful public void displayHBaseTableRows(rstring jsonResponse) {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/905_gate_load_balancer_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/com_ibm_streamsx_ps_samples_ps_test_1_PsTest1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/905_gate_load_balancer_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/com_ibm_streamsx_ps_samples_ps_test_1_PsTest1_spl/"> > </a>
 </div>
 

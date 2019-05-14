@@ -5,7 +5,7 @@ title: 903_unique
 
 ### 903_unique
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/903_unique_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/904_primitive_round_robin_split_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/903_unique_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/904_primitive_round_robin_split_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -36,6 +36,6 @@ public composite Uniq (output Out; input In) {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/903_unique_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/904_primitive_round_robin_split_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/903_unique_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/904_primitive_round_robin_split_Main_spl/"> > </a>
 </div>
 

@@ -5,7 +5,7 @@ title: 037_odbc_adapters_for_solid_db_at_work
 
 ### 037_odbc_adapters_for_solid_db_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/036_shared_lib_primitive_operator_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/038_spl_built_in_functions_at_work_test_scratch_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/036_shared_lib_primitive_operator_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/038_spl_built_in_functions_at_work_test_scratch_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -211,6 +211,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/036_shared_lib_primitive_operator_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/038_spl_built_in_functions_at_work_test_scratch_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/036_shared_lib_primitive_operator_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/038_spl_built_in_functions_at_work_test_scratch_Main_spl/"> > </a>
 </div>
 

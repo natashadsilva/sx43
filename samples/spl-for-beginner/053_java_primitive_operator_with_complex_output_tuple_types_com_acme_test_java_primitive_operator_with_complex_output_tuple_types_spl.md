@@ -5,7 +5,7 @@ title: 053_java_primitive_operator_with_complex_output_tuple_types
 
 ### 053_java_primitive_operator_with_complex_output_tuple_types
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/052_streams_to_python_python_wrapper_example_streams_to_python_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/054_serialize_deserialize_tuples_com_acme_test_serialize_deserialize_tuples_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/052_streams_to_python_python_wrapper_example_streams_to_python_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/054_serialize_deserialize_tuples_com_acme_test_serialize_deserialize_tuples_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -96,6 +96,6 @@ composite java_primitive_operator_with_complex_output_tuple_types {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/052_streams_to_python_python_wrapper_example_streams_to_python_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/054_serialize_deserialize_tuples_com_acme_test_serialize_deserialize_tuples_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/052_streams_to_python_python_wrapper_example_streams_to_python_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/054_serialize_deserialize_tuples_com_acme_test_serialize_deserialize_tuples_spl/"> > </a>
 </div>
 

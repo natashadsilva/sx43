@@ -5,7 +5,7 @@ title: 029_spl_functions_at_work
 
 ### 029_spl_functions_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample3_StockOrderCommission_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample3_StockOrderCommission_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -32,6 +32,6 @@ public uint32 division(uint32 operand1, uint32 operand2) {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample3_StockOrderCommission_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample3_StockOrderCommission_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Main_spl/"> > </a>
 </div>
 

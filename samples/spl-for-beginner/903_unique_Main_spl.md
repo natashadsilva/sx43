@@ -5,7 +5,7 @@ title: 903_unique
 
 ### 903_unique
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/902_word_count_word_count_WordCount_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/903_unique_my_util_Uniq_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/902_word_count_word_count_WordCount_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/903_unique_my_util_Uniq_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -71,6 +71,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/902_word_count_word_count_WordCount_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/903_unique_my_util_Uniq_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/902_word_count_word_count_WordCount_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/903_unique_my_util_Uniq_spl/"> > </a>
 </div>
 

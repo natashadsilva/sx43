@@ -5,7 +5,7 @@ title: 029_spl_functions_at_work
 
 ### 029_spl_functions_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Calculator_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/030_spl_config_at_work_my_sample3_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Calculator_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/030_spl_config_at_work_my_sample3_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -67,6 +67,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Calculator_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/030_spl_config_at_work_my_sample3_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/029_spl_functions_at_work_my_sample_Calculator_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/030_spl_config_at_work_my_sample3_Main_spl/"> > </a>
 </div>
 

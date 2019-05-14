@@ -53,11 +53,11 @@ def splToMd(splFile, mdFile, title, prev, next):
         print "Generated: " + mdFile
 
 path = "/Users/chanskw/git/splexamples/SPL-Examples-For-Beginners"
-outPath = "/Users/chanskw/git/streamsx.documentation/samples/spl-for-beginner"
+outPath = "/Users/chanskw/git/sx43/samples/spl-for-beginner"
 spl = ".spl"
 md = ".md"
-index = os.path.join("/Users/chanskw/git/streamsx.documentation/_includes" + "/sampleIndex.html")
-htmlPrefix = "/streamsx.documentation/samples/spl-for-beginner/"
+index = os.path.join("/Users/chanskw/git/sx43/_includes" + "/sampleIndex.html")
+htmlPrefix = "/sx43/samples/spl-for-beginner/"
 
 if (os.path.exists(index)):
     os.remove(index)

@@ -5,7 +5,7 @@ title: 059_dynamic_scaleout_of_streams_application
 
 ### 059_dynamic_scaleout_of_streams_application
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_Pricer_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/060_simple_pe_failover_technique_at_work_com_acme_failover_test_simple_pe_failover_technique_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_Pricer_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/060_simple_pe_failover_technique_at_work_com_acme_failover_test_simple_pe_failover_technique_at_work_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -390,6 +390,6 @@ composite DynamicScaleOut {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_Pricer_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/060_simple_pe_failover_technique_at_work_com_acme_failover_test_simple_pe_failover_technique_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/059_dynamic_scaleout_of_streams_application_com_ibm_streams_pricing_Pricer_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/060_simple_pe_failover_technique_at_work_com_acme_failover_test_simple_pe_failover_technique_at_work_spl/"> > </a>
 </div>
 

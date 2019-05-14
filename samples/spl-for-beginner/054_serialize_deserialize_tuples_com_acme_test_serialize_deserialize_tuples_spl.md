@@ -5,7 +5,7 @@ title: 054_serialize_deserialize_tuples
 
 ### 054_serialize_deserialize_tuples
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/053_java_primitive_operator_with_complex_output_tuple_types_com_acme_test_java_primitive_operator_with_complex_output_tuple_types_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/055_json_to_tuple_to_json_using_c++_com_acme_test_json_to_tuple_to_json_using_cpp_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/053_java_primitive_operator_with_complex_output_tuple_types_com_acme_test_java_primitive_operator_with_complex_output_tuple_types_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/055_json_to_tuple_to_json_using_c++_com_acme_test_json_to_tuple_to_json_using_cpp_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -95,6 +95,6 @@ composite serialize_deserialize_tuples {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/053_java_primitive_operator_with_complex_output_tuple_types_com_acme_test_java_primitive_operator_with_complex_output_tuple_types_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/055_json_to_tuple_to_json_using_c++_com_acme_test_json_to_tuple_to_json_using_cpp_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/053_java_primitive_operator_with_complex_output_tuple_types_com_acme_test_java_primitive_operator_with_complex_output_tuple_types_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/055_json_to_tuple_to_json_using_c++_com_acme_test_json_to_tuple_to_json_using_cpp_spl/"> > </a>
 </div>
 

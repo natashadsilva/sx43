@@ -5,7 +5,7 @@ title: 032_native_function_at_work
 
 ### 032_native_function_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/031_spl_mixed_mode_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/033_java_primitive_operator_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/031_spl_mixed_mode_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/033_java_primitive_operator_at_work_my_sample_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -113,6 +113,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/031_spl_mixed_mode_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/033_java_primitive_operator_at_work_my_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/031_spl_mixed_mode_at_work_my_sample_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/033_java_primitive_operator_at_work_my_sample_Main_spl/"> > </a>
 </div>
 

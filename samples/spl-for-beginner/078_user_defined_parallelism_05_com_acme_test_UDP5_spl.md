@@ -5,7 +5,7 @@ title: 078_user_defined_parallelism_05
 
 ### 078_user_defined_parallelism_05
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/077_user_defined_parallelism_04_com_acme_test_UDP4_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/079_user_defined_parallelism_06_com_acme_test_UDP6_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/077_user_defined_parallelism_04_com_acme_test_UDP4_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/079_user_defined_parallelism_06_com_acme_test_UDP6_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -84,6 +84,6 @@ composite Comp4(input In; output B) {
 }
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/077_user_defined_parallelism_04_com_acme_test_UDP4_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/079_user_defined_parallelism_06_com_acme_test_UDP6_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/077_user_defined_parallelism_04_com_acme_test_UDP4_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/079_user_defined_parallelism_06_com_acme_test_UDP6_spl/"> > </a>
 </div>
 

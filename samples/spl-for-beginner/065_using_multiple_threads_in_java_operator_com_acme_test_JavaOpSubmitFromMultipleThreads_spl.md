@@ -5,7 +5,7 @@ title: 065_using_multiple_threads_in_java_operator
 
 ### 065_using_multiple_threads_in_java_operator
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/064_using_spl_composite_params_com_acme_test_CompositeParams_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/066_load_balancing_using_gate_com_acme_test_LoadBalancingUsingGate_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/064_using_spl_composite_params_com_acme_test_CompositeParams_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/066_load_balancing_using_gate_com_acme_test_LoadBalancingUsingGate_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -62,6 +62,6 @@ composite JavaOpSubmitFromMultipleThreads {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/064_using_spl_composite_params_com_acme_test_CompositeParams_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/066_load_balancing_using_gate_com_acme_test_LoadBalancingUsingGate_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/064_using_spl_composite_params_com_acme_test_CompositeParams_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/066_load_balancing_using_gate_com_acme_test_LoadBalancingUsingGate_spl/"> > </a>
 </div>
 

@@ -5,7 +5,7 @@ title: 005_throttle_at_work
 
 ### 005_throttle_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/004_delay_at_work_sample_delay_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/006_barrier_at_work_sample_barrier_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/004_delay_at_work_sample_delay_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/006_barrier_at_work_sample_barrier_at_work_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -53,6 +53,6 @@ composite throttle_at_work {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/004_delay_at_work_sample_delay_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/006_barrier_at_work_sample_barrier_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/004_delay_at_work_sample_delay_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/006_barrier_at_work_sample_barrier_at_work_spl/"> > </a>
 </div>
 

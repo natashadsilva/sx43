@@ -5,7 +5,7 @@ title: 049_json_to_tuple_to_json_using_java
 
 ### 049_json_to_tuple_to_json_using_java
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/048_source_operator_with_control_port_source_op_with_control_port_source_operator_with_control_port_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/050_recursive_dir_scan_recursive_dir_scan_recursive_dir_scan_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/048_source_operator_with_control_port_source_op_with_control_port_source_operator_with_control_port_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/050_recursive_dir_scan_recursive_dir_scan_recursive_dir_scan_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -218,6 +218,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/048_source_operator_with_control_port_source_op_with_control_port_source_operator_with_control_port_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/050_recursive_dir_scan_recursive_dir_scan_recursive_dir_scan_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/048_source_operator_with_control_port_source_op_with_control_port_source_operator_with_control_port_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/050_recursive_dir_scan_recursive_dir_scan_recursive_dir_scan_spl/"> > </a>
 </div>
 

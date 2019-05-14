@@ -27,7 +27,7 @@ Run your first Streams application, "Hello, World!" using Streams Studio.
 
 ### Launch Streams Studio
 **If you are using the Docker QSE:**
-  * [Start a VNC session](http://localhost:4000/streamsx.documentation/docs/4.3/qse-install-docker/#vnc).
+  * [Start a VNC session](http://localhost:4000/sx43/docs/4.3/qse-install-docker/#vnc).
 
 **If you are using the Native Streams installation:**
   * [Install Streams Studio](https://www.ibm.com/support/knowledgecenter/SSCRJU_4.3.0/com.ibm.streams.install.doc/doc/tinstall-studio-linux.html)
@@ -186,9 +186,9 @@ if __name__ == '__main__':
 
 To get started, see these development guides:
 
-* [Develop Streams Applications in Java](http://ibmstreams.github.io/streamsx.documentation/docs/java/java-appapi-devguide/)
+* [Develop Streams Applications in Java](http://ibmstreams.github.io/sx43/docs/java/java-appapi-devguide/)
 * [Develop Streams Applications in Scala](https://github.com/IBMStreams/streamsx.topology/wiki/Scala-Support)
-* Develop Streams Applications in Python [v1.6](http://ibmstreams.github.io/streamsx.documentation/docs/python/1.6/python-appapi-devguide/) , [v1.4](http://ibmstreams.github.io/streamsx.documentation/docs/python/1.4/python-appapi-devguide/)
+* Develop Streams Applications in Python [v1.6](http://ibmstreams.github.io/sx43/docs/python/1.6/python-appapi-devguide/) , [v1.4](http://ibmstreams.github.io/sx43/docs/python/1.4/python-appapi-devguide/)
 
 
 ### Developing applications by using Streams Processing Language (SPL)
@@ -197,12 +197,12 @@ Streams Processing Language is designed from the ground up for writing streaming
 
 * Start with the [Streams Quick Start Guide](https://developer.ibm.com/streamsdev/?p=5686)
 * [Streams Hands-on Lab](https://developer.ibm.com/streamsdev/docs/streams-lab-introduction/)
-* [SPL Examples for Beginners](/streamsx.documentation/samples/)
+* [SPL Examples for Beginners](/sx43/samples/)
 * [Search our samples catalog](https://ibmstreams.github.io/samples/)
 
 Streams is shipped with comprehensive development tooling.
 
-<img src="/streamsx.documentation/images/qse/streamsStudio.jpg" alt="Streams Studio" style="width: 60%;"/>
+<img src="/sx43/images/qse/streamsStudio.jpg" alt="Streams Studio" style="width: 60%;"/>
 
 To learn about how to develop using Streams Studio (our drag-and-drop IDE):
 
@@ -268,7 +268,7 @@ To learn about Streams can integrate with SPSS:  [Streams and SPSS Lab](https://
 
 Streams Console is the web-based administration console for monitoring and managing your Streams domain. Create customized dashboards to monitor your Streams domain, instances and applications.
 
-<img src="/streamsx.documentation/images/qse/Application-Dashboard-4.1.png" alt="Streams Console" style="width: 60%;"/>
+<img src="/sx43/images/qse/Application-Dashboard-4.1.png" alt="Streams Console" style="width: 60%;"/>
 
 To familiarize yourself with Streams Console, see this video:
 
@@ -288,7 +288,7 @@ Below are some resources to help you get started.
 
 ### Streams and Microsoft Excel
 
-<img src="/streamsx.documentation/images/qse/BargainIndex1.jpg" alt="Streams and Excel" style="width: 60%;"/>
+<img src="/sx43/images/qse/BargainIndex1.jpg" alt="Streams and Excel" style="width: 60%;"/>
 
 IBM Streams integrates with Microsoft Excel, allowing you to see, analyze and visulize live streaming data in an Excel worksheet.  This article helps you get started:  [Streams for Microsoft Excel](https://developer.ibm.com/streamsdev/docs/streams-4-0-streams-for-microsoft-excel/)
 

@@ -5,7 +5,7 @@ title: 057_reading_nested_tuple_data_via_file_source
 
 ### 057_reading_nested_tuple_data_via_file_source
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/056_data_sharing_between_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/058_data_sharing_between_non_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/056_data_sharing_between_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/058_data_sharing_between_non_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -100,6 +100,6 @@ composite Test1 {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/056_data_sharing_between_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/058_data_sharing_between_non_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/056_data_sharing_between_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/058_data_sharing_between_non_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> > </a>
 </div>
 

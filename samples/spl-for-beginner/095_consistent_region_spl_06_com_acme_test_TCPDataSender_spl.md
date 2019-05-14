@@ -5,7 +5,7 @@ title: 095_consistent_region_spl_06
 
 ### 095_consistent_region_spl_06
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/095_consistent_region_spl_06_com_acme_test_ConsistentRegion6_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/096_consistent_region_cpp_07_com_acme_test_ConsistentRegion7_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/095_consistent_region_spl_06_com_acme_test_ConsistentRegion6_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/096_consistent_region_cpp_07_com_acme_test_ConsistentRegion7_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -49,6 +49,6 @@ composite TCPDataSender {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/095_consistent_region_spl_06_com_acme_test_ConsistentRegion6_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/096_consistent_region_cpp_07_com_acme_test_ConsistentRegion7_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/095_consistent_region_spl_06_com_acme_test_ConsistentRegion6_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/096_consistent_region_cpp_07_com_acme_test_ConsistentRegion7_spl/"> > </a>
 </div>
 

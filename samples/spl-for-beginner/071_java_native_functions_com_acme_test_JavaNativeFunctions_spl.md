@@ -5,7 +5,7 @@ title: 071_java_native_functions
 
 ### 071_java_native_functions
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/070_convert_block_data_into_tuples_using_parse_com_acme_test_ConvertBlockDataWithParse_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/072_using_streams_rest_apis_com_acme_test_UsingStreamsRestApis_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/070_convert_block_data_into_tuples_using_parse_com_acme_test_ConvertBlockDataWithParse_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/072_using_streams_rest_apis_com_acme_test_UsingStreamsRestApis_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -55,6 +55,6 @@ composite JavaNativeFunctions {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/070_convert_block_data_into_tuples_using_parse_com_acme_test_ConvertBlockDataWithParse_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/072_using_streams_rest_apis_com_acme_test_UsingStreamsRestApis_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/070_convert_block_data_into_tuples_using_parse_com_acme_test_ConvertBlockDataWithParse_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/072_using_streams_rest_apis_com_acme_test_UsingStreamsRestApis_spl/"> > </a>
 </div>
 

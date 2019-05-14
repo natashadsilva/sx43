@@ -31,7 +31,7 @@ Once you have found an operator or toolkit you want to use, where can you find s
 
 -   **[The Streams samples catalog](https://ibmstreams.github.io/samples/)** is a searchable database of over 150 examples.
 
-      ![catalog](/streamsx.documentation/images/atom/jpg/catalog.jpg)
+      ![catalog](/sx43/images/atom/jpg/catalog.jpg)
 
 
       Click **Download zip** to download the sample, then import into your editor.
@@ -44,4 +44,4 @@ Once you have found an operator or toolkit you want to use, where can you find s
 Tips for creating SPL applications from scratch
 -------
 
-Now that you have followed a sample and are a bit familiar with the IDE, review these [guidelines on how to create your own applications](/streamsx.documentation/docs/spl/design)
+Now that you have followed a sample and are a bit familiar with the IDE, review these [guidelines on how to create your own applications](/sx43/docs/spl/design)

@@ -5,7 +5,7 @@ title: 072_using_streams_rest_apis
 
 ### 072_using_streams_rest_apis
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/071_java_native_functions_com_acme_test_JavaNativeFunctions_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/073_java_operator_fusion_com_acme_test_JavaFusion_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/071_java_native_functions_com_acme_test_JavaNativeFunctions_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/073_java_operator_fusion_com_acme_test_JavaFusion_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -55,6 +55,6 @@ composite UsingStreamsRestApis {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/071_java_native_functions_com_acme_test_JavaNativeFunctions_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/073_java_operator_fusion_com_acme_test_JavaFusion_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/071_java_native_functions_com_acme_test_JavaNativeFunctions_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/073_java_operator_fusion_com_acme_test_JavaFusion_spl/"> > </a>
 </div>
 

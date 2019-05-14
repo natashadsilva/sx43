@@ -5,7 +5,7 @@ title: 002_source_sink_at_work
 
 ### 002_source_sink_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/001_hello_world_in_spl_HelloWorld_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/003_sink_at_work_sample_sink_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/001_hello_world_in_spl_HelloWorld_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/003_sink_at_work_sample_sink_at_work_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -39,6 +39,6 @@ composite source_sink_at_work {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/001_hello_world_in_spl_HelloWorld_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/003_sink_at_work_sample_sink_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/001_hello_world_in_spl_HelloWorld_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/003_sink_at_work_sample_sink_at_work_spl/"> > </a>
 </div>
 

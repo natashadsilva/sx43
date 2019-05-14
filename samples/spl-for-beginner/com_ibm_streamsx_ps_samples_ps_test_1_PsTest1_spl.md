@@ -5,7 +5,7 @@ title: com.ibm.streamsx.ps
 
 ### com.ibm.streamsx.ps
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/com_ibm_streamsx_dps_samples_dps_test_1_DpsTest1_spl/"> < </a></div>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/com_ibm_streamsx_dps_samples_dps_test_1_DpsTest1_spl/"> < </a></div>
 
 ~~~~~~
 /*
@@ -606,5 +606,5 @@ composite OperationsTest() {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/com_ibm_streamsx_dps_samples_dps_test_1_DpsTest1_spl/"> < </a></div>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/com_ibm_streamsx_dps_samples_dps_test_1_DpsTest1_spl/"> < </a></div>
 

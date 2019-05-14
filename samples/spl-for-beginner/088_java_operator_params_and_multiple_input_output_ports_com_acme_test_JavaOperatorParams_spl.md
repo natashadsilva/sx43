@@ -5,7 +5,7 @@ title: 088_java_operator_params_and_multiple_input_output_ports
 
 ### 088_java_operator_params_and_multiple_input_output_ports
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/087_email_alerts_via_java_native_function_com_acme_test_EmailAlerts_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/089_integrating_streams_apps_with_web_apps_com_acme_test_WebCalculator_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/087_email_alerts_via_java_native_function_com_acme_test_EmailAlerts_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/089_integrating_streams_apps_with_web_apps_com_acme_test_WebCalculator_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -78,6 +78,6 @@ composite Java_Operator_Params {
 }
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/087_email_alerts_via_java_native_function_com_acme_test_EmailAlerts_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/089_integrating_streams_apps_with_web_apps_com_acme_test_WebCalculator_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/087_email_alerts_via_java_native_function_com_acme_test_EmailAlerts_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/089_integrating_streams_apps_with_web_apps_com_acme_test_WebCalculator_spl/"> > </a>
 </div>
 

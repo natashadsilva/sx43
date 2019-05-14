@@ -5,7 +5,7 @@ title: 042_dynamic_import_export_api_at_work
 
 ### 042_dynamic_import_export_api_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/041_real_time_streams_merger_real_time_merger_real_time_streams_merger_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/042_dynamic_import_export_api_at_work_dynamic_importing_exporting_dynamic_import_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/041_real_time_streams_merger_real_time_merger_real_time_streams_merger_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/042_dynamic_import_export_api_at_work_dynamic_importing_exporting_dynamic_import_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -86,6 +86,6 @@ composite dynamic_export {
 } // End of composite dynamic_export
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/041_real_time_streams_merger_real_time_merger_real_time_streams_merger_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/042_dynamic_import_export_api_at_work_dynamic_importing_exporting_dynamic_import_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/041_real_time_streams_merger_real_time_merger_real_time_streams_merger_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/042_dynamic_import_export_api_at_work_dynamic_importing_exporting_dynamic_import_spl/"> > </a>
 </div>
 

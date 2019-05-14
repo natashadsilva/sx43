@@ -5,7 +5,7 @@ title: 089_integrating_streams_apps_with_web_apps
 
 ### 089_integrating_streams_apps_with_web_apps
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/088_java_operator_params_and_multiple_input_output_ports_com_acme_test_JavaOperatorParams_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/090_consistent_region_spl_01_com_acme_test_ConsistentRegion1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/088_java_operator_params_and_multiple_input_output_ports_com_acme_test_JavaOperatorParams_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/090_consistent_region_spl_01_com_acme_test_ConsistentRegion1_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -203,6 +203,6 @@ composite WebCalculator {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/088_java_operator_params_and_multiple_input_output_ports_com_acme_test_JavaOperatorParams_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/090_consistent_region_spl_01_com_acme_test_ConsistentRegion1_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/088_java_operator_params_and_multiple_input_output_ports_com_acme_test_JavaOperatorParams_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/090_consistent_region_spl_01_com_acme_test_ConsistentRegion1_spl/"> > </a>
 </div>
 

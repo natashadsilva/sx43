@@ -84,7 +84,7 @@ In Beam, metrics are associated with steps in the pipeline execution. In Streams
 
 For example, if you submit the `TemperatureSample` application and monitor the job in the Streams console by clicking on **Job Settings** and selecting **Show Full Graph**, the metrics are displayed when you hover over the `MergeReadings` operator in the **Streams Graph**.
 
-<img src="/streamsx.documentation/images/beamrunner/metricsingraph.jpg" alt="Metrics displayed in the Streams Graph" width="700" />
+<img src="/sx43/images/beamrunner/metricsingraph.jpg" alt="Metrics displayed in the Streams Graph" width="700" />
 
 This view shows both Beam metrics and Streams metrics. Beam metrics are named differently to distinguish them.
 

@@ -18,7 +18,7 @@ You need to upload the Streams asset definition file to the IGC.  This only need
 
 1. open browser with **`https://<IGC host:port>/ibm/iis/igc-rest-explorer/#!/bundles/registerBundle`**
 
-    <img width="80%" src="/streamsx.documentation/images/governance/bundleupload.png" />
+    <img width="80%" src="/sx43/images/governance/bundleupload.png" />
 
 2. press the browse button and navigate to **`<streams_install>/4.1.0.0/etc/governance/StreamsIGCAssetDefinitions.zip`**
 3. Press try it out to upload the bundle

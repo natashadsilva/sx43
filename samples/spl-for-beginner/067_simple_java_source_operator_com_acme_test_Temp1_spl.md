@@ -5,7 +5,7 @@ title: 067_simple_java_source_operator
 
 ### 067_simple_java_source_operator
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/066_load_balancing_using_gate_com_acme_test_LoadBalancingUsingGate_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/068_tuple_introspection_inside_java_operator_com_acme_test_Temp2_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/066_load_balancing_using_gate_com_acme_test_LoadBalancingUsingGate_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/068_tuple_introspection_inside_java_operator_com_acme_test_Temp2_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -33,6 +33,6 @@ composite Temp1 {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/066_load_balancing_using_gate_com_acme_test_LoadBalancingUsingGate_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/068_tuple_introspection_inside_java_operator_com_acme_test_Temp2_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/066_load_balancing_using_gate_com_acme_test_LoadBalancingUsingGate_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/068_tuple_introspection_inside_java_operator_com_acme_test_Temp2_spl/"> > </a>
 </div>
 

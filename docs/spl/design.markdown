@@ -12,7 +12,7 @@ How should you design your application?
 
 First, recall the Streams application pattern:
 
-![](/streamsx.documentation/images/atom/jpg/pattern.jpg)
+![](/sx43/images/atom/jpg/pattern.jpg)
 
 All Streams applications have this basic pattern: ingest the data, filter/discard any data that is uninteresting or erroneous. Next, analyze or process the data and act on the results.
 
@@ -21,7 +21,7 @@ Each stage in the diagram above is handled by one or more operators.
 
 For example, in the `BusAlerts` application:
 
-![](/streamsx.documentation/images/atom/jpg/phases2.jpg)
+![](/sx43/images/atom/jpg/phases2.jpg)
 
 The bus data is *ingested*, buses near POIs are *detected*, and then the
 *alert* is sent.

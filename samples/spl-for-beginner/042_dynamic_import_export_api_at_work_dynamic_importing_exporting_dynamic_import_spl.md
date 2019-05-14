@@ -5,7 +5,7 @@ title: 042_dynamic_import_export_api_at_work
 
 ### 042_dynamic_import_export_api_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/042_dynamic_import_export_api_at_work_dynamic_importing_exporting_dynamic_export_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_export_with_filter_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/042_dynamic_import_export_api_at_work_dynamic_importing_exporting_dynamic_export_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_export_with_filter_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -116,6 +116,6 @@ composite dynamic_import {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/042_dynamic_import_export_api_at_work_dynamic_importing_exporting_dynamic_export_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_export_with_filter_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/042_dynamic_import_export_api_at_work_dynamic_importing_exporting_dynamic_export_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/043_import_export_filter_at_work_importing_exporting_filter_export_with_filter_spl/"> > </a>
 </div>
 

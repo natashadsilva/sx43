@@ -5,7 +5,7 @@ title: 010_get_compile_time_value
 
 ### 010_get_compile_time_value
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/009_custom_operator_using_get_submission_time_value_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/011_compiler_intrinsic_functions_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/009_custom_operator_using_get_submission_time_value_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/011_compiler_intrinsic_functions_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -72,6 +72,6 @@ composite Main {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/009_custom_operator_using_get_submission_time_value_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/011_compiler_intrinsic_functions_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/009_custom_operator_using_get_submission_time_value_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/011_compiler_intrinsic_functions_Main_spl/"> > </a>
 </div>
 

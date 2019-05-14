@@ -5,7 +5,7 @@ title: 055_json_to_tuple_to_json_using_c++
 
 ### 055_json_to_tuple_to_json_using_c++
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/054_serialize_deserialize_tuples_com_acme_test_serialize_deserialize_tuples_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/056_data_sharing_between_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/054_serialize_deserialize_tuples_com_acme_test_serialize_deserialize_tuples_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/056_data_sharing_between_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -166,6 +166,6 @@ composite json_to_tuple_to_json_using_cpp {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/054_serialize_deserialize_tuples_com_acme_test_serialize_deserialize_tuples_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/056_data_sharing_between_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/054_serialize_deserialize_tuples_com_acme_test_serialize_deserialize_tuples_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/056_data_sharing_between_fused_spl_custom_and_cpp_primitive_operators_com_acme_test_Main_spl/"> > </a>
 </div>
 

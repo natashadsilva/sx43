@@ -5,7 +5,7 @@ title: 048_source_operator_with_control_port
 
 ### 048_source_operator_with_control_port
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/047_streams_host_tags_at_work_host_tags_streams_host_tags_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/049_json_to_tuple_to_json_using_java_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/047_streams_host_tags_at_work_host_tags_streams_host_tags_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/049_json_to_tuple_to_json_using_java_sample_Main_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -65,6 +65,6 @@ composite source_operator_with_control_port {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/047_streams_host_tags_at_work_host_tags_streams_host_tags_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/049_json_to_tuple_to_json_using_java_sample_Main_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/047_streams_host_tags_at_work_host_tags_streams_host_tags_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/049_json_to_tuple_to_json_using_java_sample_Main_spl/"> > </a>
 </div>
 

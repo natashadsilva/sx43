@@ -5,7 +5,7 @@ title: 047_streams_host_tags_at_work
 
 ### 047_streams_host_tags_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/046_launching_external_apps_in_spl_launch_external_apps_launching_external_apps_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/048_source_operator_with_control_port_source_op_with_control_port_source_operator_with_control_port_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/046_launching_external_apps_in_spl_launch_external_apps_launching_external_apps_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/048_source_operator_with_control_port_source_op_with_control_port_source_operator_with_control_port_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -114,6 +114,6 @@ composite streams_host_tags_at_work {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/046_launching_external_apps_in_spl_launch_external_apps_launching_external_apps_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/048_source_operator_with_control_port_source_op_with_control_port_source_operator_with_control_port_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/046_launching_external_apps_in_spl_launch_external_apps_launching_external_apps_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/048_source_operator_with_control_port_source_op_with_control_port_source_operator_with_control_port_spl/"> > </a>
 </div>
 

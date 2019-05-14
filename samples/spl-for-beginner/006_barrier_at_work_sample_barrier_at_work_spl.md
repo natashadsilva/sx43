@@ -5,7 +5,7 @@ title: 006_barrier_at_work
 
 ### 006_barrier_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/005_throttle_at_work_sample_throttle_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/007_split_at_work_sample_split_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/005_throttle_at_work_sample_throttle_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/007_split_at_work_sample_split_at_work_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -91,6 +91,6 @@ composite barrier_at_work {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/005_throttle_at_work_sample_throttle_at_work_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/007_split_at_work_sample_split_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/005_throttle_at_work_sample_throttle_at_work_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/007_split_at_work_sample_split_at_work_spl/"> > </a>
 </div>
 

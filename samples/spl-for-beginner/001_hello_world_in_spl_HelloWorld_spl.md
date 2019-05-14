@@ -5,7 +5,7 @@ title: 001_hello_world_in_spl
 
 ### 001_hello_world_in_spl
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/002_source_sink_at_work_sample_source_sink_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/002_source_sink_at_work_sample_source_sink_at_work_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -37,6 +37,6 @@ composite HelloWorld {
 } // End of HelloWorld composite.
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/002_source_sink_at_work_sample_source_sink_at_work_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/002_source_sink_at_work_sample_source_sink_at_work_spl/"> > </a>
 </div>
 

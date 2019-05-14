@@ -5,7 +5,7 @@ title: 028_multiple_composites_at_work
 
 ### 028_multiple_composites_at_work
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample1_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample3_StockOrderCommission_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample1_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample3_StockOrderCommission_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -42,6 +42,6 @@ public composite StockMatch(output Output; input Input) {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample1_Main_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample3_StockOrderCommission_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample1_Main_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/028_multiple_composites_at_work_my_sample3_StockOrderCommission_spl/"> > </a>
 </div>
 

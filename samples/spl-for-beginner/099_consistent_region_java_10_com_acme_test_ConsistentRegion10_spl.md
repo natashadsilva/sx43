@@ -5,7 +5,7 @@ title: 099_consistent_region_java_10
 
 ### 099_consistent_region_java_10
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/098_consistent_region_java_09_com_acme_test_ConsistentRegion9_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/103_view_annotation_at_work_com_acme_test_ViewAnnotationAtWork_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/098_consistent_region_java_09_com_acme_test_ConsistentRegion9_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/103_view_annotation_at_work_com_acme_test_ViewAnnotationAtWork_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -119,6 +119,6 @@ composite ConsistentRegion10 {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/098_consistent_region_java_09_com_acme_test_ConsistentRegion9_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/103_view_annotation_at_work_com_acme_test_ViewAnnotationAtWork_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/098_consistent_region_java_09_com_acme_test_ConsistentRegion9_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/103_view_annotation_at_work_com_acme_test_ViewAnnotationAtWork_spl/"> > </a>
 </div>
 

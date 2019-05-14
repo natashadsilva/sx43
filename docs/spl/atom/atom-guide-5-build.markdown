@@ -15,7 +15,7 @@ next:
 With the cloud based development using Atom, compilation and execution are all done in the cloud. From Atom, you can compile an SPL application using the
 **Build** or **Build and submit job** actions:
 
-  ![build-submit action](/streamsx.documentation/images/atom/jpg/build-submit.jpg)
+  ![build-submit action](/sx43/images/atom/jpg/build-submit.jpg)
 
 If you choose **Build,** the application will be compiled and the resulting `.sab` (Streams Application Bundle) executable file will be saved to the `output` folder of your project. If you choose **Build and submit job**, the application will be compiled and executed in the cloud.
 
@@ -39,7 +39,7 @@ In the **Project** pane, select the SPL file containing the composite you want t
 
 Various alerts describing the progress of compilation will pop up:
 
-  ![build-submit action](/streamsx.documentation/images/atom/jpg/build-progress.jpg)
+  ![build-submit action](/sx43/images/atom/jpg/build-progress.jpg)
 
 View compile messages and errors
 ----------------------------------------------------
@@ -48,7 +48,7 @@ The Atom Console pane contains all information and error messages received from 
 
 Click **View > Toggle Console** and the console pane will appear:
 
-  ![Atom console pane](/streamsx.documentation/images/atom/jpg/console-pane.jpg)
+  ![Atom console pane](/sx43/images/atom/jpg/console-pane.jpg)
 
 If an error occurs, see the [Troubleshooting section](atom-guide-7-problems) for help to resolve errors.
 
@@ -57,7 +57,7 @@ Run the application
 
 If you compiled using **Build and submit job**, you will receive an alert once compilation is successful:
 
-  ![Streams console main](/streamsx.documentation/images/atom/jpg/submit-prompt.jpg)
+  ![Streams console main](/sx43/images/atom/jpg/submit-prompt.jpg)
 
 _Submitting the job_ means launching the application on the Streaming analytics service.
 
@@ -68,7 +68,7 @@ View the running application in the Streams Console
 
 Once the application is launched, you will be prompted to view the application in the Streams Console.
 
-  ![Streams console prompt](/streamsx.documentation/images/atom/jpg/console-prompt.jpg)
+  ![Streams console prompt](/sx43/images/atom/jpg/console-prompt.jpg)
 
 Click **Open Streaming Analytics Console** to open the console in your browser.
 
@@ -78,18 +78,18 @@ Streams Console overview
 You can manage and observe your running applications from the Streams Console. You can start, restart and stop applications here, view log data, and observe metrics such as throughput or resource utilization.
 
 
-![Streams console main](/streamsx.documentation/images/atom/jpg/console-main.jpg)
+![Streams console main](/sx43/images/atom/jpg/console-main.jpg)
 
 ### Viewing the application's Logs
 
 Let's start by looking at the output of the application. The application is simple; whenever it detects that a bus should receive an alert, it just prints the alerts.  We can take a look at the output by going to the **Log Viewer**, which is opened from the far left:
 
-  ![open log viewer](/streamsx.documentation/images/atom/jpg/log-viewer.jpeg)
+  ![open log viewer](/sx43/images/atom/jpg/log-viewer.jpeg)
 
 
 Then, expand the application, select the `AlertPrinter` operator, and click **Console Log**. Click **Reload** if no data appears.
 
-  ![app logs](/streamsx.documentation/images/atom/jpg/operator-log.jpg)
+  ![app logs](/sx43/images/atom/jpg/operator-log.jpg)
 
 Each line indicates the bus route, the business or area of interest, and the message that would be sent. For example, the first message would be to the N bus, stating that there is a security incident near Mission Dolores Park.
 
@@ -104,7 +104,7 @@ Submitting such an application from Atom would result in this message:
   ```
 Or this prompt:
 
-  ![param missing prompt](/streamsx.documentation/images/atom/jpg/param-missing.jpeg)
+  ![param missing prompt](/sx43/images/atom/jpg/param-missing.jpeg)
 
 It means the application requires you to specify a value for a parameter.
 To specify application parameters, submit the application via the Streams Console.
@@ -118,7 +118,7 @@ To specify application parameters, submit the application via the Streams Consol
 
 Let's continue with the example. In our case, our application has a parameter called `$agency`, which is set in the code:
 
-  ![param](/streamsx.documentation/images/atom/jpg/param-default.png)
+  ![param](/sx43/images/atom/jpg/param-default.png)
 
  We use this parameter to change our application to monitor buses in a different region.
 
@@ -135,14 +135,14 @@ Select the SPL file, right click and click **Build**.
 This will compile the application and save the executable file within the output folder of your project.
 
 If the build is successful, you will see a new folder within the project containing the executable file:
-  ![downloaded sab location](/streamsx.documentation/images/atom/jpg/sab-downloaded.jpg)
+  ![downloaded sab location](/sx43/images/atom/jpg/sab-downloaded.jpg)
 
 To launch the application, you can select the `.sab` file from the output folder and click **Submit job**.
-    ![submit dialog atom](/streamsx.documentation/images/atom/jpg/sab-submit.jpeg)
+    ![submit dialog atom](/sx43/images/atom/jpg/sab-submit.jpeg)
 
 You will again be prompted to submit the application, but this time, choose **Submit via Console**.
 
-  ![Streams console main](/streamsx.documentation/images/atom/jpg/sab-submit-dark.jpeg)
+  ![Streams console main](/sx43/images/atom/jpg/sab-submit-dark.jpeg)
 
 
 This will open the Streams Console in your browser.
@@ -152,19 +152,19 @@ Submit a job from Streams console
 -------
 From the Console, click the **Submit job** button to submit a job.
 
-  ![submit new job](/streamsx.documentation/images/atom/jpg/submit-play.jpeg)
+  ![submit new job](/sx43/images/atom/jpg/submit-play.jpeg)
 
 Click **Browse** in the dialog that pops up.  Select the `.sab` file from the output folder of your project.
 
-  ![Browse to sab](/streamsx.documentation/images/atom/jpg/submit-console.jpeg)
+  ![Browse to sab](/sx43/images/atom/jpg/submit-console.jpeg)
 
 **Tip**: The path to the file is printed in the Atom Console, so you can copy and paste it. Use `CMD+SHIFT+G` on a Mac.
 
-  ![Console URL](/streamsx.documentation/images/atom/jpg/console-url.jpeg)
+  ![Console URL](/sx43/images/atom/jpg/console-url.jpeg)
 
 Click **Submit**. You will be prompted with a list of all the application's parameters.
 
-  ![Parameter prompt](/streamsx.documentation/images/atom/jpg/params-in-console.jpeg)
+  ![Parameter prompt](/sx43/images/atom/jpg/params-in-console.jpeg)
 
 Change the values as you would like. For example, changing the `bus-agency` to _ttc_ (Toronto Transit Commission) will cause this application to monitor buses in Toronto.
 
@@ -182,11 +182,11 @@ Stop a running application
 Once you are finished with an application, stop it by clicking the
 **Cancel** button from anywhere in the Streams console:
 
-  ![Streams console main](/streamsx.documentation/images/atom/jpg/cancel.jpeg)
+  ![Streams console main](/sx43/images/atom/jpg/cancel.jpeg)
 
 Select the jobs to be cancelled and click Cancel Jobs:
 
-  ![Streams console main](/streamsx.documentation/images/atom/jpg/cancel-dialog.jpeg)
+  ![Streams console main](/sx43/images/atom/jpg/cancel-dialog.jpeg)
 
 
 # Next steps

@@ -5,7 +5,7 @@ title: 069_changing_map_value_during_iteration
 
 ### 069_changing_map_value_during_iteration
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/068_tuple_introspection_inside_java_operator_com_acme_test_Temp2_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/070_convert_block_data_into_tuples_using_parse_com_acme_test_ConvertBlockDataWithParse_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/068_tuple_introspection_inside_java_operator_com_acme_test_Temp2_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/070_convert_block_data_into_tuples_using_parse_com_acme_test_ConvertBlockDataWithParse_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -60,6 +60,6 @@ composite ChangeMapValue {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/068_tuple_introspection_inside_java_operator_com_acme_test_Temp2_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/070_convert_block_data_into_tuples_using_parse_com_acme_test_ConvertBlockDataWithParse_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/068_tuple_introspection_inside_java_operator_com_acme_test_Temp2_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/070_convert_block_data_into_tuples_using_parse_com_acme_test_ConvertBlockDataWithParse_spl/"> > </a>
 </div>
 

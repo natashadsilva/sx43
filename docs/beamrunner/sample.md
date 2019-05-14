@@ -89,11 +89,11 @@ MetricName{namespace=com.ibm.streams, name=nTuplesSubmitted}: 12581
 At this point, the application is also visible in the Streams console in IBM Cloud.
 To launch the Streams Console, navigate to the **Manage** tab of your Streaming Analytics Service and click **Launch**.
 
-<img src="/streamsx.documentation/images/beamrunner/appinconsole.jpg" alt="The application running in Streams Console in IBM Cloud" width="650" />
+<img src="/sx43/images/beamrunner/appinconsole.jpg" alt="The application running in Streams Console in IBM Cloud" width="650" />
 
 Of particular interest for this application is the Streams Graph. The graph shows how the Streaming Analytics service organizes and executes the code in the sample application. When you maximize the graph, you can see the graph of the whole application:
 
-<img src="/streamsx.documentation/images/beamrunner/appgraph.jpg" alt="The application graph maximized" width="650" />
+<img src="/sx43/images/beamrunner/appgraph.jpg" alt="The application graph maximized" width="650" />
 
 By default, the graph shows the Beam transforms of the application and matches the pipeline structure that is described in the overview. The names that are used in the graph are the same as those used in the application unless there are transform names that are not unique.
 
@@ -106,9 +106,9 @@ You can use the Beam [metrics API](https://beam.apache.org/documentation/sdks/ja
 ## Stopping the application
 
 After you explore the Streams console, stop the application by canceling the job. You can cancel the job in several ways, from almost any place that shows the job in the console, but the simplest way is by clicking **Cancel Jobs** in the navigation bar. Clicking **Cancel Jobs** opens a window that shows running jobs. Select the job or jobs that you want to cancel, in this case the job that is running the sample, and click **Cancel Jobs**.
-<img src="/streamsx.documentation/images/beamrunner/canceljobbutton.jpg" alt="Cancel Jobs in the navigation bar" width="100"/>
+<img src="/sx43/images/beamrunner/canceljobbutton.jpg" alt="Cancel Jobs in the navigation bar" width="100"/>
 
-<img src="/streamsx.documentation/images/beamrunner/canceljobwindow.jpg" alt="Cancel Jobs window" width="400" />
+<img src="/sx43/images/beamrunner/canceljobwindow.jpg" alt="Cancel Jobs window" width="400" />
 
 **Important**: Interrupting or killing the `java` command in the terminal where you started the application does _not_ cause the job to be stopped, even though the job does stop reporting metrics.
 

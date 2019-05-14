@@ -92,4 +92,4 @@ The Quick Start Edition is available only in English.
 
 ## What to do next
 
-Explore the Streams QSE VMWare image following the [Quick Start Edition VM Getting Started Guide](/streamsx.documentation/docs/4.2/qse-getting-started/)
+Explore the Streams QSE VMWare image following the [Quick Start Edition VM Getting Started Guide](/sx43/docs/4.2/qse-getting-started/)

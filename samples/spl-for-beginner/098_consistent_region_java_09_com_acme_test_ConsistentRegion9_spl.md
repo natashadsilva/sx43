@@ -5,7 +5,7 @@ title: 098_consistent_region_java_09
 
 ### 098_consistent_region_java_09
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/097_consistent_region_cpp_08_com_acme_test_ConsistentRegion8_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/099_consistent_region_java_10_com_acme_test_ConsistentRegion10_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/097_consistent_region_cpp_08_com_acme_test_ConsistentRegion8_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/099_consistent_region_java_10_com_acme_test_ConsistentRegion10_spl/"> > </a>
 </div>
 
 ~~~~~~
@@ -105,6 +105,6 @@ composite ConsistentRegion9 {
 
 ~~~~~~
 
-<div class="sampleNav"><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/097_consistent_region_cpp_08_com_acme_test_ConsistentRegion8_spl/"> < </a><a class="button" href="/streamsx.documentation/samples/spl-for-beginner/099_consistent_region_java_10_com_acme_test_ConsistentRegion10_spl/"> > </a>
+<div class="sampleNav"><a class="button" href="/sx43/samples/spl-for-beginner/097_consistent_region_cpp_08_com_acme_test_ConsistentRegion8_spl/"> < </a><a class="button" href="/sx43/samples/spl-for-beginner/099_consistent_region_java_10_com_acme_test_ConsistentRegion10_spl/"> > </a>
 </div>
 
